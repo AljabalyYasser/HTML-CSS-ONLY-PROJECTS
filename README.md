@@ -1,2 +1,2 @@
-# HTML-CSS-ONLY-PROJECTS
+# HTML-CSS-PROJECTS
 These projects were created using Html and Css only
